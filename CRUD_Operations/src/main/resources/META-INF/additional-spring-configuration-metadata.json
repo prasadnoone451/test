@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "spring.datasource.uesrname",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.uesrname'"
+  },
+  {
+    "name": "spring.jpa.hibernate.ddl.auto",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.hibernate.ddl.auto'"
+  },
+  {
+    "name": "spring.jpa.show.-sql",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.show.-sql'"
+  }
+]}
